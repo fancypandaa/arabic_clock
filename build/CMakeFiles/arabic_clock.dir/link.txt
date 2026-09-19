@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/arabic_clock.dir/link.d CMakeFiles/arabic_clock.dir/src/clock_digital.cpp.o CMakeFiles/arabic_clock.dir/src/screen.cpp.o CMakeFiles/arabic_clock.dir/src/main.cpp.o CMakeFiles/arabic_clock.dir/src/common.cpp.o CMakeFiles/arabic_clock.dir/src/background_snow.cpp.o -o arabic_clock

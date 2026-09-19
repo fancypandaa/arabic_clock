@@ -1,0 +1,3 @@
+/home/fancypanda/arabic_clock/build/CMakeFiles/arabic_clock.dir
+/home/fancypanda/arabic_clock/build/CMakeFiles/edit_cache.dir
+/home/fancypanda/arabic_clock/build/CMakeFiles/rebuild_cache.dir

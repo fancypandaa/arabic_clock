@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/fancypanda/arabic_clock/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
